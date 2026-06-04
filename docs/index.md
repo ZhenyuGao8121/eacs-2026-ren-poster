@@ -1,8 +1,8 @@
 # From Objective Character Motivation to Learners’ Subjective Reconstruction
 
-**GAO Zhenyu**
-Universidad de Salamanca
-EACS 2026 · 26th Biennial Conference
+**GAO Zhenyu 高桢玉**<br>
+Universidad de Salamanca<br>
+EACS 2026 · 26th Biennial Conference<br>
 Venice, 21–25 July
 
 ## Poster supplement

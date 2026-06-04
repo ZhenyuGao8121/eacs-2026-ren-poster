@@ -1,23 +1,46 @@
 # From Objective Character Motivation to Learners’ Subjective Reconstruction
 
-**GAO Zhenyu**  
-Universidad de Salamanca  
-EACS 2026
+**GAO Zhenyu**
+Universidad de Salamanca
+EACS 2026 · 26th Biennial Conference
+Venice, 21–25 July
 
 ## Poster supplement
 
-This page provides supplementary materials for my EACS 2026 poster:
+This page provides supplementary materials for the EACS 2026 poster:
 
-**From Objective Character Motivation to Learners’ Subjective Reconstruction**  
+**From Objective Character Motivation to Learners’ Subjective Reconstruction**
 *A Pilot Study on Conceptual Mapping in the Rén Component Family among Spanish-Speaking Learners of Chinese*
 
-## Materials
+## Abstract
 
-- Poster PDF: coming soon
-- References: coming soon
-- Contact: coming soon
+This pilot study examines how Spanish-speaking beginner learners of Chinese interpret characters in the **Rén component family**. Rather than assuming that objective character motivation is directly transparent to learners, the study focuses on how learners extract visual and semantic cues, activate associations, integrate components, and construct subjective rationales from graphic form.
+
+The analysis is based on exploratory questionnaire responses from nine beginner learners of Chinese. The selected cases include the pictographic base character **人**, ideographic compounds and simple indicatives such as **休 / 仙 / 会 / 今**, and phono-semantic characters containing **亻**, such as **你 / 什 / 伙**.
+
+The findings suggest that learner interpretations are not simply read off from character structure. Instead, they are constructed through cognitive operations such as cue uptake, association activation, and integrative interpretation. Deviations from traditional character rationale are therefore not merely errors, but outcomes of cognitive strategy selection.
+
+## Poster PDF
+
+The final poster PDF will be available here after revision.
+
+<!-- After uploading the PDF to this docs folder, replace the line above with:
+[Download the poster PDF](EACS2026_GAO_Zhenyu_poster.pdf)
+-->
+
+## Keywords
+
+Chinese character orthography; Rén component; conceptual mapping; learner reconstruction; subjective rationale construction; Spanish-speaking learners; Chinese character teaching
+
+## References
+
+Xu, S. (1978). *Shuō wén jiě zì*. Zhonghua Shuju.
+
+Ruiz de Mendoza Ibáñez, F. J., & Masegosa, A. G. (2014). *Cognitive Modeling: A Linguistic Perspective*. John Benjamins.
 
 ## Contact
 
 GAO Zhenyu  
-Universidad de Salamanca
+Universidad de Salamanca  
+Email: [gaozhenyu@usal.es](mailto:gaozhenyu@usal.es)  
+GitHub: [ZhenyuGao8121](https://github.com/ZhenyuGao8121)

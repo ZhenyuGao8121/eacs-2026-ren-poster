@@ -22,7 +22,7 @@ The findings suggest that learner interpretations are not simply read off from c
 
 ## Poster PDF
 
-[Download the poster PDF](EACS2026_GAO_Zhenyu_poster.pdf)
+[Download the poster PDF](EACS2026_GAO_Zhenyu_poster_final_.pdf)
 
 ## Keywords
 

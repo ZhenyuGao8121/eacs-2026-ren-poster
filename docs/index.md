@@ -30,9 +30,11 @@ Chinese character orthography; Rén component; conceptual mapping; learner recon
 
 ## References
 
-Xu, S. (1978). *Shuō wén jiě zì*. Zhonghua Shuju.
+Fauconnier, G., & Turner, M. (2002). *The Way We Think: Conceptual Blending and the Mind's Hidden Complexities*. New York: Basic Books.
 
 Ruiz de Mendoza Ibáñez, F. J., & Masegosa, A. G. (2014). *Cognitive Modeling: A Linguistic Perspective*. John Benjamins.
+
+Xu, S. (1978). *Shuō wén jiě zì*. Zhonghua Shuju.
 
 ## Contact
 
